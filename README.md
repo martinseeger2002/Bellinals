@@ -1,4 +1,4 @@
-# Bellscriptions
+# Bellinals
 
 A minter and protocol for inscriptions on Bells. 
 
